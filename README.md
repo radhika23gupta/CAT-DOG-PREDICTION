@@ -39,13 +39,6 @@ Place the image you want to classify in the project directory.
 
 Open the terminal and navigate to the project directory.
 
-Run the following command to make a prediction:
-
-bash
-Copy code
-python predict.py image_filename.jpg
-Replace image_filename.jpg with the actual name of your image file.
-
 The program will output the prediction (cat or dog) based on the provided image.
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
